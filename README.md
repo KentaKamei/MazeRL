@@ -20,3 +20,6 @@ ML-Agents（PPOアルゴリズム）を使用して学習を行いました。
 ## 🔧 トレーニング方法
 ```bash
 mlagents-learn TrainingConfigs/maze_config.yaml --run-id=maze_run1
+## 🎥 プレイ動画
+
+[YouTubeで見る](https://www.youtube.com/watch?v=nHFh41QqFKk)
